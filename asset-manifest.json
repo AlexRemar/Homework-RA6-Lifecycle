@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlexRemar/Homework-RA6-Lifecycle/static/css/main.f435e6b5.css",
+    "main.js": "/AlexRemar/Homework-RA6-Lifecycle/static/js/main.9273f1ff.js",
+    "static/media/Montserrat-Regular.woff2": "/AlexRemar/Homework-RA6-Lifecycle/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/AlexRemar/Homework-RA6-Lifecycle/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/AlexRemar/Homework-RA6-Lifecycle/index.html",
+    "main.f435e6b5.css.map": "/AlexRemar/Homework-RA6-Lifecycle/static/css/main.f435e6b5.css.map",
+    "main.9273f1ff.js.map": "/AlexRemar/Homework-RA6-Lifecycle/static/js/main.9273f1ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f435e6b5.css",
+    "static/js/main.9273f1ff.js"
+  ]
+}
